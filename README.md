@@ -1,7 +1,9 @@
 # TypingSpeedTest
 
-requirement for running this
+Requirement for running this
 - python
 - pygame
 
-use command pip install pygame in your terminal if pygame is not there on your system
+Use command
+- pip install pygame 
+in your terminal if pygame is not there on your system.
