@@ -5,5 +5,5 @@ Requirement for running this
 - pygame
 
 Use command
-- pip install pygame 
+- pip install pygame  
 in your terminal if pygame is not there on your system.
